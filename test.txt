@@ -1,8 +1,9 @@
-A
-B
-C
+A - Apple
+B - Banana
+C - Cat
 D
 E
 F
 G
 H
+I 
