@@ -8,3 +8,16 @@ Ritesh Patil
 
 I am doing my latest project which is Event Management for one company
 
+All git commands comes here
+
+git pull
+fit fetch
+git status
+git add .
+git commit -m 'this is sample added'
+git push
+
+
+To change name in GitHub --> git config --global user.name "Ritesh Patil"
+To change Email in github --> git config --global user.email "riteshpatil9482@gmail.com"
+
