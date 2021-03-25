@@ -1,9 +1,9 @@
 A - Apple
 B - Banana
-C - Cat
-D
-E
-F
-G
+
+Name- Ritesh Patil
+Father- Subhash Patil
+Mother- Vasihali Patil
+
 H
 I 
